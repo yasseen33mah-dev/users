@@ -1,0 +1,5 @@
+{
+  "name": "إدارة المستخدمين | UserHub",
+  "description": "نظام متكامل لإدارة المستخدمين مع قاعدة بيانات SQLite وواجهة عصرية.",
+  "requestFramePermissions": []
+}
